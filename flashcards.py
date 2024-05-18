@@ -1,0 +1,6 @@
+print("Card:")
+term = input()
+print(term)
+print("Definition:")
+definition = input()
+print(definition)
